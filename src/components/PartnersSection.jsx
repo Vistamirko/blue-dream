@@ -193,7 +193,7 @@ export default function PartnersSection() {
             </div>
           </div>
           
-          <a className="flex items-center gap-2 text-[#0E6FA7] text-sm font-bold mt-auto group" aria-label="Scopri la nostra flotta" href="/flotta">
+          <a className="flex items-center gap-2 text-[#0E6FA7] text-sm font-bold mt-auto group" aria-label="Scopri la nostra flotta" href="/la-flotta-blue-dream-charter">
             <span className="underline">{language === 'it' ? 'Scopri le nostre imbarcazioni' : 'Discover our yachts'}</span>
             <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" className="group-hover:translate-x-1 group-hover:-translate-y-1 transition-all duration-300">
               <rect x=".5" y=".5" width="23" height="23" rx="1.5" stroke="#0E6FA7"></rect>
